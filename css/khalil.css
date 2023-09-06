@@ -1,0 +1,94 @@
+.category-titletitle {
+   /* font-size: 40px;
+    font-weight: bold;
+    display: inline;
+    position: relative;
+    padding: 10px 20px;*/
+    font-size: 40px;
+    position: relative;
+    left: 40px;
+    font-weight: bold;
+    
+}
+
+.category-descriptiontitle {
+   /* font-size: 40px;
+    font-weight: bold;
+    position: relative;
+    padding: 10px 20px;
+    text-align: center;*/
+    font-size: 40px;
+    position: relative;
+    left: 150px;
+    font-weight: bold;
+   
+}
+
+.category-statstitle {
+    /*font-size: 40px;
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+    padding: 10px 20px;*/
+    font-size: 40px;
+    position: relative;
+    left: 400px;
+    font-weight: bold;
+   
+   
+}
+
+
+.category-title {
+    font-size: 20px;
+    text-align: left;
+    position: relative;
+    left: 50px;
+    display: inline;
+}
+
+
+
+.category-description {
+    font-size: 14px;
+    text-align: left;
+    position: relative;
+    left: 150px;
+    display: inline;
+  
+
+}
+
+
+
+.category-stats {
+    font-size: 25px;
+    position: relative;
+    left: 500px;
+    display: inline;
+}
+
+
+
+
+.list-unstyled li a {
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+.list-unstyled li a:hover {
+    background-color: #f0f0f0;
+}
+
+.list-unstyled li span {
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px 20px;
+}
+
+li p {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    padding: 10px 20px;
+}
